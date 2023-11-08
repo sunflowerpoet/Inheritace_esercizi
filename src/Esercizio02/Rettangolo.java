@@ -1,8 +1,8 @@
 package Esercizio02;
 
 public class Rettangolo extends Forma {
-    private int base = 2;
-    private int altezza = 3;
+    private int base;
+    private int altezza;
 
     public Rettangolo (int base, int altezza) {
         this.base = base;
