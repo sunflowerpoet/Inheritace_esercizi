@@ -9,11 +9,11 @@ metodo calcolaArea() per calcolare l'area del rettangolo.*/
 public class Main {
     public static void main(String[] args) {
         Forma forma = new Forma();
-        Rettangolo rettangolo = new Rettangolo();
+        int areaForma = forma.calcolaArea();
+        System.out.println("Area forma: " + areaForma);
 
-        forma.calcolaArea();
-        System.out.println("Formula area rettangolo: " + rettangolo.base + " * " + rettangolo.altezza);
-        System.out.print("Area di un rettangolo: ");
-        rettangolo.calcolaArea();
+        Rettangolo rettangolo = new Rettangolo(2, 3);
+        int areaRettangolo = rettangolo.calcolaArea();
+        System.out.println("Area rettangolo: " + areaRettangolo);
     }
 }

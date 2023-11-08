@@ -1,22 +1,17 @@
 package Esercizio02;
 
 public class Rettangolo extends Forma {
-    int base = 2;
-    int altezza = 3;
+    private int base = 2;
+    private int altezza = 3;
 
-    int area = base * altezza;
-
-    @Override
-    public String toString() {
-        return "Rettangolo{" +
-                "base=" + base +
-                ", altezza=" + altezza +
-                ", area=" + area +
-                '}';
+    public Rettangolo (int base, int altezza) {
+        this.base = base;
+        this.altezza = altezza;
     }
 
     @Override
-    public void calcolaArea() {
-        System.out.println(area);
+    public int calcolaArea() {
+        int area = base * altezza;
+        return area;
     }
 }
