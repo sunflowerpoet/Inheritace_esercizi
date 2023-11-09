@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29ba8038-b641-494c-9e60-96745194d83a" name="Changes" comment="first commit inheritance">
-      <change afterPath="$PROJECT_DIR$/src/Esercizio03/Forma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Esercizio03/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Esercizio03/Rettangolo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Esercizio03/Triangolo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Esercizio04abstract/Forma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Esercizio04abstract/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Esercizio04abstract/Rettangolo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Esercizio04abstract/Triangolo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,15 +37,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "onboarding.tips.debug.path": "D:/develhope/Inheritance_esercizi/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/develhope/Inheritance_esercizi/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Esercizio01" />
@@ -100,7 +100,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699455915642</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="first commit inheritance">
+      <option name="closed" value="true" />
+      <created>1699456894524</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1699456894524</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
