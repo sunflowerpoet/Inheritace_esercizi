@@ -7,9 +7,9 @@ public class Rettangolo implements Forma {
         this.base = base;
         this.altezza = altezza;
     }
+    @Override
     public void calcolaArea() {
         int area = base * altezza;
         System.out.println("Area rettangolo: " + area);
     }
-
 }
