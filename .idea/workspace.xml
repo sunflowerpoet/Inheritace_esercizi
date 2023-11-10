@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="29ba8038-b641-494c-9e60-96745194d83a" name="Changes" comment="first commit inheritance">
-      <change afterPath="$PROJECT_DIR$/src/Esercizio06enum/Forma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Esercizio06enum/Rettangolo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Esercizio06enum/Triangolo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Esercizio06enum/tipoForma.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Esercizio06enum/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Esercizio06enum/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Esericizo08stringhe/Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Esericizo08stringhe/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Eserizio07stringhe/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -133,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699619865897</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="first commit inheritance">
+      <option name="closed" value="true" />
+      <created>1699621023329</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1699621023329</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
