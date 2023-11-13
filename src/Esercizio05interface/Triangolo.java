@@ -8,8 +8,9 @@ public class Triangolo implements Forma {
         this.altezza = altezza;
     }
     @Override
-    public void calcolaArea() {
+    public int calcolaArea() {
         int area = base * altezza / 2;
         System.out.println("Area triangolo: " + area);
+        return area;
     }
 }
